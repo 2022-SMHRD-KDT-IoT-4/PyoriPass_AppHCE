@@ -3,7 +3,7 @@
     <string name="servicedesc" translatable="false">Description</string>
     <string name="aiddescription" translatable="false">AID Description</string>
     <string name="id_label" translatable="false">ID:</string>
-    <string name="nfc_disabled">NFC is disabled. Do you want to enable it?</string>
+    <string name="nfc_disabled">NFC가 꺼져있습니다. 사용하시겠습니까?</string>
     <string name="dialog_yes">Yes</string>
     <string name="dialog_no">No</string>
     <string name="nfc_unsupported">Device does not support NFC? :-(</string>
